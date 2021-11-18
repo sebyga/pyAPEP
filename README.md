@@ -3,7 +3,7 @@
 
 
 # pyAPEP
-This is for developing python-based Adsorption Process Evaluation Package (pyapep).
+This is for developing python-based Adsorption Process Evaluation Package (pyapep), soley developed by Dr. Seongbin Ga.
 
 - [01 - Installation](https://github.com/sebyga/pyAPEP_v0_0_5#Installation)
 - [02 - Modules](https://github.com/sebyga/pyAPEP_v0_0_5#Modules)
