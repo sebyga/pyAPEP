@@ -1,9 +1,0 @@
-README.md
-setup.py
-pyapep/__init__.py
-pyapep/simsep.py
-pyapep/simsto.py
-pyapep.egg-info/PKG-INFO
-pyapep.egg-info/SOURCES.txt
-pyapep.egg-info/dependency_links.txt
-pyapep.egg-info/top_level.txt
