@@ -22,7 +22,6 @@ import pyapep.simsep as papse
 c1 = papse.column()
 ```
 
-Super- and sub- script: x<sup>2</sup> and x<sub>2</sub>
 
 # Modules
 There are several modules related to the adsorption processes:
