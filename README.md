@@ -4,6 +4,7 @@
 
 # pyAPEP
 This is for developing python-based Adsorption Process Evaluation Package (pyapep), solely developed by Dr. Seongbin Ga.
+This work was supported by Basic Science Research Program through the National Research Foundation of Korea(NRF) funded by the Ministry of Science, ICT and Future Planning (grant number: NRF-2021R1C1C2011236)
 
 - [01 - Installation](https://github.com/sebyga/pyAPEP_v0_0_5#Installation)
 - [02 - Modules](https://github.com/sebyga/pyAPEP_v0_0_5#Modules)
